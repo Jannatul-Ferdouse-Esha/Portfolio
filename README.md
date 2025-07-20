@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project provides a brief overview
 
 ## 🚀 Live Demo
 
-You can view the live portfolio here: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/)
+You can view the live portfolio here: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-Project/](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-Project/)
 
 ## ✨ Features
 
