@@ -20,7 +20,7 @@ You can view the live portfolio here: [https://jannatul-ferdouse-esha.github.io/
 
 ### About Me Section
 
-[![About Me Section Screenshot](about_shoot.jpg)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#about)
+[![About Me Section Screenshot](about_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#about)
 Click the image or the link below to view the live About Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#about](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#about)
 
 * A personal introduction starting with "Hello! I'm Jannatul Ferdouse Esha".
@@ -30,8 +30,8 @@ Click the image or the link below to view the live About Me section: [https://ja
 
 ### Education Section
 
-[![Education Section Screenshot](education_shoot.jpg)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
-[![Education Section Screenshot 2](edu_shoot2.jpg)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
+[![Education Section Screenshot](education_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
+[![Education Section Screenshot 2](edu_shoot2.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
 Click the images or the link below to view the live Education section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
 
 * Details for three educational institutions: Shahjalal University of Science and Technology, Muminunnisa Government Women's College, and a placeholder for a school.
@@ -41,12 +41,18 @@ Click the images or the link below to view the live Education section: [https://
 
 ### Skills Section
 
+[![Skills Section Screenshot](skills_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#skills)
+Click the image or the link below to view the live Contact Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#skill](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#skill)
+
 * Displays your programming language and frontend skills (C, C++, JavaScript, HTML, CSS, Git, Pandas) with corresponding logos.
 * Logos become colored and slightly enlarge on hover.
 
 ---
 
 ### Projects Section
+
+[![Project Section Screenshot](projects_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#projects)
+Click the image or the link below to view the live Contact Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#projects](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#projects)
 
 * A project box for your GitHub profile.
 * The box expands on hover and directs to your GitHub profile upon clicking.
@@ -55,7 +61,7 @@ Click the images or the link below to view the live Education section: [https://
 
 ### Contact Me Section
 
-[![Contact Me Section Screenshot](contact_shoot.jpg)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#contact)
+[![Contact Me Section Screenshot](contact_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#contact)
 Click the image or the link below to view the live Contact Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#contact](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#contact)
 
 * A message indicating 24-hour availability for contact and your email address.
@@ -100,9 +106,9 @@ If you have any questions or wish to get in touch, please feel free to contact m
 
 * **Email:** `2021331016@student.sust.edu`
 * **GitHub:** [Jannatul-Ferdouse-Esha](https://github.com/Jannatul-Ferdouse-Esha)
-* **LinkedIn:** 
-* **Facebook:** 
-* **Instagram:**
+* **LinkedIn** 
+* **Facebook** 
+* **Instagram**
 
 ---
 
