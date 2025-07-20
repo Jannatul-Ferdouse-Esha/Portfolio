@@ -13,30 +13,29 @@ html,body{  /*here..............*/
 }
 
 body{
-            background-color: #171C28;
-              color: #E0E0E0; 
-            line-height: 1.6;
-            position: relative; 
-              z-index: 1;     
-              }
+    background-color: #171C28;
+      color: #E0E0E0; 
+    line-height: 1.6;
+    position: relative; 
+      z-index: 1;     
+      }
 
        
-        body::before {
-            content: '';
-            position: fixed;    
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-           
-            background-image: url('particle.jpg'); 
-            background-size: cover;
-            background-position: center center; 
-            background-repeat: no-repeat;
-            filter: blur(8px);
-            -webkit-filter: blur(8px); 
-            z-index: -1;
-            opacity: 0.6; 
+  body::before  {       
+content: '';    
+        position: fixed;        
+        top: 0;    
+        left: 0;    
+        width: 100%;    
+        height: 100%;       
+        background-image: url('particle.jpg');     
+        background-size: cover;    
+        background-position: center center;     
+        background-repeat: no-repeat;    
+        filter: blur(8px);    
+        -webkit-filter: blur(8px);     
+        z-index: -1;    
+        opacity: 0.6; 
         }
 nav {
      /* position: sticky;
