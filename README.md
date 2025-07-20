@@ -21,7 +21,7 @@ You can view the live portfolio here: [https://jannatul-ferdouse-esha.github.io/
 ### About Me Section
 
 [![About Me Section Screenshot](about_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#about)
-Click the image or the link below to view the live About Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#about](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#about)
+Click the image  below to view the  About Me section: 
 
 * A personal introduction starting with "Hello! I'm Jannatul Ferdouse Esha".
 * Highlights your academic status (3rd year CSE undergraduate student at Shahjalal University of Science and Technology).
@@ -32,7 +32,7 @@ Click the image or the link below to view the live About Me section: [https://ja
 
 [![Education Section Screenshot](education_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
 [![Education Section Screenshot 2](edu_shoot2.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
-Click the images or the link below to view the live Education section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#education)
+Click the images  below to view the Education section: 
 
 * Details for three educational institutions: Shahjalal University of Science and Technology, Muminunnisa Government Women's College, and a placeholder for a school.
 * Each item features a logo on the left and details like institution name, year, and location on the right.
@@ -42,7 +42,7 @@ Click the images or the link below to view the live Education section: [https://
 ### Skills Section
 
 [![Skills Section Screenshot](skills_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#skills)
-Click the image or the link below to view the live Contact Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#skill](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#skill)
+Click the image  below to view the Contact Me section: 
 
 * Displays your programming language and frontend skills (C, C++, JavaScript, HTML, CSS, Git, Pandas) with corresponding logos.
 * Logos become colored and slightly enlarge on hover.
@@ -52,7 +52,7 @@ Click the image or the link below to view the live Contact Me section: [https://
 ### Projects Section
 
 [![Project Section Screenshot](projects_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#projects)
-Click the image or the link below to view the live Contact Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#projects](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#projects)
+Click the image  below to view the  Contact Me section:
 
 * A project box for your GitHub profile.
 * The box expands on hover and directs to your GitHub profile upon clicking.
@@ -62,7 +62,7 @@ Click the image or the link below to view the live Contact Me section: [https://
 ### Contact Me Section
 
 [![Contact Me Section Screenshot](contact_shoot.png)](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#contact)
-Click the image or the link below to view the live Contact Me section: [https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#contact](https://jannatul-ferdouse-esha.github.io/Simple-Portfolio-/#contact)
+Click the image  below to view the Contact Me section:
 
 * A message indicating 24-hour availability for contact and your email address.
 * Includes icons for various social media platforms like Facebook, Messenger, Instagram, GitHub, and LinkedIn.
